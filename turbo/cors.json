@@ -1,0 +1,8 @@
+[
+  {
+    "origin": ["http://localhost:5173", "https://liquitous-tttc.web.app"],
+    "method": ["GET", "HEAD", "DELETE"],
+    "responseHeader": ["Content-Type"],
+    "maxAgeSeconds": 3600
+  }
+]
