@@ -3,7 +3,7 @@
 
 echo "${CYAN}Building nodes...${NC}\n"
 
-./src/lib/scripts/build_nodes.py
+python3 ./src/lib/scripts/build_nodes.py
 
 echo "${YELLOW}Preparing styles...${NC}"
 
